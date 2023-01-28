@@ -1,0 +1,45 @@
+@media screen and (max-width:1005px) {
+    .logo {
+        margin: 0;
+        text-align: center;
+    }
+
+    .navbar {
+        position: relative;
+    }
+
+    .nenu {
+        display: none;
+
+    }
+
+    .header {
+        padding-top: 50px;
+    }
+
+    .headeline {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .headeline p {
+        text-align: center;
+    }
+
+    .img-headeline {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .whatsapp {
+        display: none;
+
+    }
+
+    .card {
+        width: 100%;
+    }
+
+}
